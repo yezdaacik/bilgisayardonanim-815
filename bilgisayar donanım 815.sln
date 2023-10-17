@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bilgisayar donanım 815", "bilgisayar donanım 815\bilgisayar donanım 815.csproj", "{D346CC3F-5901-4018-8EF6-0256A19CA31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D346CC3F-5901-4018-8EF6-0256A19CA31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D346CC3F-5901-4018-8EF6-0256A19CA31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D346CC3F-5901-4018-8EF6-0256A19CA31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D346CC3F-5901-4018-8EF6-0256A19CA31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F450FFC4-7EAC-4B8F-AE70-D18C2873A584}
+	EndGlobalSection
+EndGlobal
